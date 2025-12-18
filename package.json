@@ -1,0 +1,10 @@
+{
+  "name": "my-static-site",
+  "version": "1.0.0",
+  "scripts": {
+    "start": "superstatic public --port $PORT --host 0.0.0.0"
+  },
+  "dependencies": {
+    "superstatic": "^10.0.0"
+  }
+}
